@@ -3,8 +3,14 @@ body{
     padding: 0px;;
 }
 footer{
-    width: 100%;
-    height: 20px;
-    background-color: rgb(233, 181, 112);
+    height: 100px;
+    background-color: black;
     text-align: center;
+    font-family: 'Lobster', cursive;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 24px;
 }
